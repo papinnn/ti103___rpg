@@ -3,9 +3,7 @@ import pygame
 
 pygame.init()
 window = pygame.display.set_mode((800,600))
-
-pygame.display.set_caption("Psplay.toggle_fullscreen()avgame")  # le nom du jeu
-
+pygame.display.set_caption("Pavgame")  # le nom du jeu
 
 run = True
 shift = 0
