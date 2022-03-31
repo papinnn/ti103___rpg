@@ -4,7 +4,6 @@
 
 import pytest
 
-
 from ti103___rpg import ti103___rpg
 
 
@@ -22,3 +21,9 @@ def test_content(response):
     """Sample pytest test function with the pytest fixture as an argument."""
     # from bs4 import BeautifulSoup
     # assert 'GitHub' in BeautifulSoup(response.content).title.string
+
+
+def test_factorielle():
+
+    assert ti103___rpg.factorielle(5) == 120
+    assert False #si la condition est vrais ne fait rien si elle est fausse il s arrete immediatement et met une allarme
