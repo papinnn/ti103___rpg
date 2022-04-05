@@ -1,4 +1,8 @@
-import pygame
+"""
+docstring = documentation
+>>> factorielle(5)
+120
+"""
 
 """
 
@@ -97,6 +101,5 @@ while run:
         #    window.blit(tuile, (x * (WIDTH * 9), y * (HEIGHT * 9)))
 
     pygame.display.flip()
-
 pygame.quit()
 
