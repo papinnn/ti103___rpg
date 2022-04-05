@@ -14,6 +14,7 @@ WIDTH = 24
 
 
 pygame.init()
+fenetre = pygame.display.set_caption("pavgame")
 window = pygame.display.set_mode((40 * WIDTH, 40 * HEIGHT))
 window.fill((0, 0, 0))
 run = True
