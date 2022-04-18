@@ -7,7 +7,7 @@ TI103 - RPG
         :target: https://pypi.python.org/pypi/ti103___rpg
 
 .. image:: https://img.shields.io/travis/gmantelet/ti103___rpg.svg
-        :target: https://travis-ci.com/papinnn/ti103___rpg
+        :target: https://travis-ci.com/gmantelet/ti103___rpg
 
 .. image:: https://readthedocs.org/projects/ti103---rpg/badge/?version=latest
         :target: https://ti103---rpg.readthedocs.io/en/latest/?version=latest
@@ -15,7 +15,7 @@ TI103 - RPG
 
 
 .. image:: https://pyup.io/repos/github/gmantelet/ti103___rpg/shield.svg
-     :target: https://pyup.io/repos/github/papinnn/ti103___rpg/
+     :target: https://pyup.io/repos/github/gmantelet/ti103___rpg/
      :alt: Updates
 
 
